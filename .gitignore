@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/MessageProcessServices
+/ExternalInterfacesFeedProcessServices/bin/Debug/net6.0
+/ExternalInterfacesFeedProcessServices/obj
+/ExternalInterfacesFeedServices/bin/Debug/net6.0
+/ExternalInterfacesFeedServices/obj
